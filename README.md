@@ -111,7 +111,7 @@ project_2_ab_sql_python/
 ├─ README.md
 ├─ notebooks/
 │ └─ ab_test_sql_python.ipynb
-├─ data/ # csv (если можно хранить)
+├─ data/ 
 └─ sql/
 ├─ diligent_students.sql
 └─ funnel_metrics.sql
