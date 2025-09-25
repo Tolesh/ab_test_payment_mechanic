@@ -107,15 +107,14 @@
 - Открыть `notebooks/ab_test_sql_python.ipynb`
 
 ## 📁 Структура репозитория
-project_2_ab_sql_python/
-├─ README.md
-├─ notebooks/
-│ └─ ab_test_sql_python.ipynb
-├─ data/ 
-└─ sql/
-├─ diligent_students.sql
-└─ funnel_metrics.sql
-
+project_v2/
+├─ README.md          
+├─ final2.ipynb       
+├─ project_2_active_studs.csv
+├─ project_2_checks.csv
+├─ project_2_group_add.csv
+├─ project_2_groups.csv
+└─ images/ 
 ---
 
 ### ℹ️ Дисклеймер
